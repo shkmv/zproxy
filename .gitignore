@@ -1,6 +1,6 @@
 .zig-cache/
-zig-cache/
 zig-out/
 mise.toml
+CLAUDE.md
 
 .DS_Store
